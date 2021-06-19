@@ -1,0 +1,8 @@
+apt update -y && apt upgrade -y
+pkg install git
+git clone
+https://github.com/white-hackers/wifibrut.git
+cd wifibrut
+cp wifibrut.apk /sdcard/
+
+
